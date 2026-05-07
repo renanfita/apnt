@@ -1,6 +1,6 @@
 [build]
-  publish = "."
-  command = ""
+  publish = ".release-staging/netlify-site"
+  command = "node scripts/build-netlify-site.mjs"
 
 [[redirects]]
   from = "/mapa"
@@ -21,4 +21,3 @@
   from = "/checklist"
   to = "/checklist.html"
   status = 200
-

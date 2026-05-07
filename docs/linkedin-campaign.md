@@ -25,7 +25,7 @@ A ferramenta permite posicionar a embarcação no mapa, inserir coordenadas, ide
 Disponibilizamos acesso online e uma versão offline para consulta didática a bordo.
 
 Acesse gratuitamente:
-[link da landing page]
+https://apnt2026-mapa-descarte.netlify.app
 
 Desenvolvido por APNT 2026 · CIAGA  
 1ON Renan Fita
@@ -56,4 +56,3 @@ Desenvolvido por APNT 2026 · CIAGA
 2. Marcar leads por perfil: bordo, QSMS, ensino, empresa, autoridade/consultoria.
 3. Enviar atualização quando houver nova versão do mapa.
 4. Convidar para seguir o LinkedIn da turma.
-

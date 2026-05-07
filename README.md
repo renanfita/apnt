@@ -18,12 +18,13 @@ URL pública: https://apnt2026-mapa-descarte.netlify.app
 
 ## Deploy no Netlify
 
-1. Importar o repositório `renanfita/apnt` no Netlify.
+1. Importar o repositório `renanfita/apnt` no Netlify ou usar o site já publicado.
 2. Usar configurações:
-   - Build command: vazio
-   - Publish directory: `.`
-3. Após o deploy, verificar em **Forms** se o formulário `lead-download` foi reconhecido.
-4. Configurar notificações de formulário para `apnt2026.1@gmail.com`.
+   - Build command: `node scripts/build-netlify-site.mjs`
+   - Publish directory: `.release-staging/netlify-site`
+3. Confirmar que **Form detection** está ativo no Netlify.
+4. Verificar em **Forms** se o formulário `lead-download` foi reconhecido.
+5. Configurar notificações de formulário para `apnt2026.1@gmail.com`.
 
 ## Uso offline
 

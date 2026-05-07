@@ -1,0 +1,12 @@
+{
+  "name": "apnt2026-mapa-descarte-brasil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page, mapa e pacote offline APNT 2026 para consulta didatica de zonas maritimas e regras MARPOL.",
+  "scripts": {
+    "build:netlify": "node scripts/build-netlify-site.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
