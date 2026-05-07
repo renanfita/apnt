@@ -14,6 +14,8 @@ Desenvolvido por **1ON Renan Fita**.
 - `downloads/apnt2026-mapa-descarte-brasil-offline.zip` — pacote offline para bordo.
 - `netlify.toml` — configuração de hospedagem Netlify.
 
+URL pública: https://apnt2026-mapa-descarte.netlify.app
+
 ## Deploy no Netlify
 
 1. Importar o repositório `renanfita/apnt` no Netlify.
@@ -34,4 +36,3 @@ Depois abrir `mapa_descarte_brasil.html` no navegador.
 ## Aviso operacional
 
 Material didático. A decisão de bordo deve conferir legislação vigente, carta náutica/ENC DHN, posição real, regras locais de porto/fundeadouro, áreas sensíveis, planos do navio, registros aplicáveis e ordens da companhia.
-
