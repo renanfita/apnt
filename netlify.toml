@@ -1,0 +1,24 @@
+[build]
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "/mapa"
+  to = "/mapa_descarte_brasil.html"
+  status = 200
+
+[[redirects]]
+  from = "/download"
+  to = "/download.html"
+  status = 200
+
+[[redirects]]
+  from = "/privacidade"
+  to = "/privacidade.html"
+  status = 200
+
+[[redirects]]
+  from = "/checklist"
+  to = "/checklist.html"
+  status = 200
+

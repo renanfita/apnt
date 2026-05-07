@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apnt2026.netlify.app/sitemap.xml
+

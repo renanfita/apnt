@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>APNT 2026 | Mapa de Zonas Marítimas e Descarte MARPOL</title>
+  <meta name="description"
+    content="Ferramenta interativa APNT 2026 para consulta didática de linhas de base, zonas marítimas brasileiras, Amazônia Azul e regras de descarte MARPOL por tipo de resíduo.">
+  <meta property="og:title" content="APNT 2026 | Mapa de Zonas Marítimas e Descarte MARPOL">
+  <meta property="og:description"
+    content="Acesse o mapa online e solicite a versão offline para uso didático a bordo.">
+  <meta property="og:image" content="assets/apnt-2026-marinha-banner.png">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand-lockup" href="/">
+        <img src="assets/apnt-2026-logo.jpeg" alt="Logo APNT 2026">
+        <span>
+          <strong>APNT 2026 · CIAGA</strong>
+          <span>Capitães de Cabotagem · Marinha Mercante</span>
+        </span>
+      </a>
+      <nav class="topnav" aria-label="Navegação principal">
+        <a href="#ferramenta">Ferramenta</a>
+        <a href="#download">Download</a>
+        <a href="mapa_descarte_brasil.html">Abrir mapa</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <video class="hero-media" src="assets/tutorial-apnt2026.mp4" autoplay muted loop playsinline
+          poster="assets/apnt-2026-marinha-banner.png"></video>
+        <div class="hero-content">
+          <div class="eyebrow">Isca técnica APNT 2026</div>
+          <h1>Mapa APNT 2026 de Zonas Marítimas e Descarte MARPOL</h1>
+          <p>
+            Uma ferramenta interativa para apoiar oficiais de náutica, praticantes e profissionais marítimos na triagem
+            didática de linhas de base, Amazônia Azul, zonas marítimas brasileiras e regras de descarte por anexo MARPOL.
+          </p>
+          <div class="hero-actions">
+            <a class="button" href="#download">Receber versão offline</a>
+            <a class="button secondary" href="mapa_descarte_brasil.html">Abrir mapa online</a>
+          </div>
+          <div class="trust-row" aria-label="Pontos de valor">
+            <span>Linhas de base · Decreto 8.400/2015</span>
+            <span>MARPOL I a VI</span>
+            <span>Amazônia Azul</span>
+            <span>Consulta offline</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="ferramenta" class="section">
+        <div class="section-head">
+          <h2>Projetado para leitura rápida em contexto operacional</h2>
+          <p>
+            O mapa reúne camadas geográficas e regras por tipo de resíduo em uma interface única, com posicionamento
+            manual do navio por clique, arrasto ou entrada de latitude/longitude.
+          </p>
+        </div>
+        <div class="grid">
+          <article class="card">
+            <strong>Geografia jurídica</strong>
+            <p>Linhas de base, mar territorial, zona contígua, ZEE e referência da Plataforma Continental Estendida.</p>
+          </article>
+          <article class="card">
+            <strong>Regras MARPOL</strong>
+            <p>Anexos I a VI com classificação visual de descarte proibido, condicional, restrito ou permitido.</p>
+          </article>
+          <article class="card">
+            <strong>Navio posicionável</strong>
+            <p>Nome da embarcação, coordenadas, popup de análise e leitura da regra aplicável no ponto selecionado.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="download" class="section alt">
+        <div class="lead-layout">
+          <div>
+            <div class="section-head">
+              <h2>Receba a versão offline e o checklist pré-descarga</h2>
+              <p>
+                Preencha os dados para receber o pacote que pode ser usado sem internet, junto com material de apoio para
+                divulgação e treinamento de bordo.
+              </p>
+            </div>
+            <div class="deliverables">
+              <div class="deliverable">
+                <span></span>
+                <div>
+                  <strong>Mapa offline em pacote ZIP</strong>
+                  <p>Arquivos locais do mapa, assets e bibliotecas necessárias para abrir em navegador.</p>
+                </div>
+              </div>
+              <div class="deliverable">
+                <span></span>
+                <div>
+                  <strong>Checklist pré-descarga</strong>
+                  <p>Roteiro objetivo para validar posição, resíduo, equipamento, registro e regra local.</p>
+                </div>
+              </div>
+              <div class="deliverable">
+                <span></span>
+                <div>
+                  <strong>Atualizações APNT 2026</strong>
+                  <p>Contato para evolução do projeto, correções e novas versões do material.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <form class="form-panel" name="lead-download" method="POST" data-netlify="true" netlify-honeypot="bot-field"
+            action="/download.html">
+            <input type="hidden" name="form-name" value="lead-download">
+            <p style="display:none">
+              <label>Não preencher: <input name="bot-field"></label>
+            </p>
+            <h2>Solicitar acesso</h2>
+            <p>Campos objetivos para mantermos contato técnico e medir o alcance da ferramenta.</p>
+            <div class="form-field">
+              <label for="nome">Nome completo</label>
+              <input id="nome" name="nome" autocomplete="name" required>
+            </div>
+            <div class="form-field">
+              <label for="email">E-mail profissional ou pessoal</label>
+              <input id="email" name="email" type="email" autocomplete="email" required>
+            </div>
+            <div class="form-field">
+              <label for="funcao">Função</label>
+              <select id="funcao" name="funcao" required>
+                <option value="">Selecione</option>
+                <option>Oficial de Náutica</option>
+                <option>Praticante de Prático</option>
+                <option>Aluno / APNT</option>
+                <option>Comandante / Imediato</option>
+                <option>QSMS / Meio ambiente</option>
+                <option>Outro profissional marítimo</option>
+              </select>
+            </div>
+            <div class="form-field">
+              <label for="organizacao">Empresa, instituição ou navio</label>
+              <input id="organizacao" name="organizacao" autocomplete="organization">
+            </div>
+            <div class="form-field">
+              <label for="linkedin">LinkedIn</label>
+              <input id="linkedin" name="linkedin" placeholder="https://www.linkedin.com/in/...">
+            </div>
+            <div class="form-field">
+              <label for="interesse">Uso previsto</label>
+              <textarea id="interesse" name="interesse"
+                placeholder="Ex.: treinamento de bordo, estudo APNT, consulta didática, QSMS..."></textarea>
+            </div>
+            <label class="consent">
+              <input type="checkbox" name="consentimento_lgpd" value="sim" required>
+              <span>Autorizo a turma APNT 2026 a usar estes dados para envio do material, contato técnico e avisos de
+                atualização, conforme a política de privacidade.</span>
+            </label>
+            <button class="button" type="submit">Receber pacote offline</button>
+            <p style="font-size:12px;margin-top:14px">
+              Dúvidas: <a href="mailto:apnt2026.1@gmail.com">apnt2026.1@gmail.com</a> ·
+              <a href="https://www.linkedin.com/in/apnt-ciaga2026" target="_blank" rel="noopener">LinkedIn APNT 2026</a>
+              · <a href="privacidade.html">Privacidade</a>
+            </p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-grid">
+        <div>
+          <strong>APNT 2026 · CIAGA</strong><br>
+          Sistema desenvolvido por 1ON Renan Fita. Material didático; a decisão operacional exige conferência com cartas
+          náuticas, normas vigentes, planos do navio e ordens da companhia.
+        </div>
+        <div>
+          <a href="mailto:apnt2026.1@gmail.com">apnt2026.1@gmail.com</a><br>
+          <a href="https://www.linkedin.com/in/apnt-ciaga2026" target="_blank" rel="noopener">LinkedIn APNT 2026</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+
+</html>
+

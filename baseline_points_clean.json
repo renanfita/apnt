@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "Ponto Inicial",
+    "tipo": null,
+    "lat": 4.508361,
+    "lon": -51.637194,
+    "localizacao": "Ba\ufffda do Oiapoque"
+  },
+  {
+    "id": "1",
+    "tipo": "LBR",
+    "lat": 2.890472,
+    "lon": -50.949806,
+    "localizacao": "Ponta S\ufffdo Sebasti\ufffdo"
+  },
+  {
+    "id": "2",
+    "tipo": null,
+    "lat": 2.169194,
+    "lon": -50.437778,
+    "localizacao": "Cabo Raso do Norte"
+  },
+  {
+    "id": "3",
+    "tipo": null,
+    "lat": 1.700917,
+    "lon": -49.922444,
+    "localizacao": "Cabo Norte"
+  },
+  {
+    "id": "4",
+    "tipo": null,
+    "lat": -0.537417,
+    "lon": -47.706833,
+    "localizacao": "Ponta de Piraquemb\ufffdua"
+  },
+  {
+    "id": "5",
+    "tipo": null,
+    "lat": -0.592056,
+    "lon": -47.318806,
+    "localizacao": "Ponta da Atalaia Oeste"
+  },
+  {
+    "id": "6",
+    "tipo": null,
+    "lat": -0.595306,
+    "lon": -47.29975,
+    "localizacao": "Ponta da Atalaia Leste"
+  },
+  {
+    "id": "7",
+    "tipo": null,
+    "lat": -0.890806,
+    "lon": -46.20325,
+    "localizacao": "Cabo Gurupi"
+  },
+  {
+    "id": "8",
+    "tipo": null,
+    "lat": -1.27925,
+    "lon": -44.890472,
+    "localizacao": "Ilha Maia\ufffd"
+  },
+  {
+    "id": "9",
+    "tipo": null,
+    "lat": -2.322917,
+    "lon": -43.360806,
+    "localizacao": "Ponta dos Mangues Verdes"
+  },
+  {
+    "id": "10",
+    "tipo": "LBR",
+    "lat": -2.544667,
+    "lon": -42.747917,
+    "localizacao": "Barra das Pregui\ufffdas"
+  },
+  {
+    "id": "11",
+    "tipo": null,
+    "lat": -2.719333,
+    "lon": -41.82425,
+    "localizacao": "Ponta Nordeste da Ilha das Can\ufffdrias"
+  },
+  {
+    "id": "12",
+    "tipo": null,
+    "lat": -2.894444,
+    "lon": -41.556,
+    "localizacao": "Ponta de Itaqui"
+  },
+  {
+    "id": "13",
+    "tipo": null,
+    "lat": -2.885722,
+    "lon": -41.262333,
+    "localizacao": "Pontal das Almas"
+  },
+  {
+    "id": "14",
+    "tipo": "LBR",
+    "lat": -2.811889,
+    "lon": -40.188472,
+    "localizacao": "Proximidades Ponta do Pres\ufffddio"
+  },
+  {
+    "id": "15",
+    "tipo": null,
+    "lat": -2.843333,
+    "lon": -39.990944,
+    "localizacao": "Ponta de Itapag\ufffd"
+  },
+  {
+    "id": "16",
+    "tipo": "LBR",
+    "lat": -3.220444,
+    "lon": -39.257417,
+    "localizacao": "Ponta Frecheira"
+  },
+  {
+    "id": "17",
+    "tipo": null,
+    "lat": -3.525444,
+    "lon": -38.796722,
+    "localizacao": "Farolete Noroeste Terminal de Pec\ufffdm"
+  },
+  {
+    "id": "18",
+    "tipo": null,
+    "lat": -3.704778,
+    "lon": -38.459917,
+    "localizacao": "Farolete Praia do Futuro"
+  },
+  {
+    "id": "19",
+    "tipo": null,
+    "lat": -3.720472,
+    "lon": -38.462194,
+    "localizacao": "Praia do Futuro"
+  },
+  {
+    "id": "20",
+    "tipo": "LBR",
+    "lat": -5.048361,
+    "lon": -36.782806,
+    "localizacao": "Foz rio das Conchas margem oeste"
+  },
+  {
+    "id": "21",
+    "tipo": null,
+    "lat": -5.061139,
+    "lon": -36.495139,
+    "localizacao": "Ponta do Tubar\ufffdo"
+  },
+  {
+    "id": "22",
+    "tipo": "LBR",
+    "lat": -5.750194,
+    "lon": -35.196917,
+    "localizacao": "Molhe norte do porto de Natal"
+  },
+  {
+    "id": "23",
+    "tipo": null,
+    "lat": -5.751278,
+    "lon": -35.194361,
+    "localizacao": "Molhe sul do porto de Natal"
+  },
+  {
+    "id": "24",
+    "tipo": "LBR",
+    "lat": -6.736389,
+    "lon": -34.927167,
+    "localizacao": "Ponta praia Coqueirinho"
+  },
+  {
+    "id": "25",
+    "tipo": null,
+    "lat": -6.768528,
+    "lon": -34.917528,
+    "localizacao": "Ponta do Mamanguape"
+  },
+  {
+    "id": "26",
+    "tipo": "LBR",
+    "lat": -6.901778,
+    "lon": -34.853278,
+    "localizacao": "Ponta de Lucena"
+  },
+  {
+    "id": "27",
+    "tipo": null,
+    "lat": -6.956306,
+    "lon": -34.822722,
+    "localizacao": "Farolete Pedra Seca"
+  },
+  {
+    "id": "28",
+    "tipo": null,
+    "lat": -6.969917,
+    "lon": -34.828417,
+    "localizacao": "Praia Ponta de Mato"
+  },
+  {
+    "id": "29",
+    "tipo": "LBR",
+    "lat": -10.500139,
+    "lon": -36.384583,
+    "localizacao": "Foz rio S\ufffdo Francisco do Norte margem norte"
+  },
+  {
+    "id": "30",
+    "tipo": null,
+    "lat": -10.518167,
+    "lon": -36.403139,
+    "localizacao": "Foz rio S\ufffdo Francisco do Norte margem sul"
+  },
+  {
+    "id": "31",
+    "tipo": "LBN",
+    "lat": -10.954583,
+    "lon": -37.029083,
+    "localizacao": "Foz rio Sergipe margem norte"
+  },
+  {
+    "id": "32",
+    "tipo": null,
+    "lat": -10.96825,
+    "lon": -37.034861,
+    "localizacao": "Foz rio Sergipe margem sul"
+  },
+  {
+    "id": "33",
+    "tipo": "LBR",
+    "lat": -11.13225,
+    "lon": -37.141389,
+    "localizacao": "Foz rio Vaza-Barris margem norte"
+  },
+  {
+    "id": "34",
+    "tipo": null,
+    "lat": -11.1715,
+    "lon": -37.152778,
+    "localizacao": "Foz rio Vaza-Barris margem sul"
+  },
+  {
+    "id": "35",
+    "tipo": "LBR",
+    "lat": -11.429306,
+    "lon": -37.317833,
+    "localizacao": "Praia do Saco"
+  },
+  {
+    "id": "36",
+    "tipo": null,
+    "lat": -11.48225,
+    "lon": -37.364417,
+    "localizacao": "Mangue Seco"
+  },
+  {
+    "id": "37",
+    "tipo": "LBR",
+    "lat": -12.590167,
+    "lon": -38.025444,
+    "localizacao": "Foz rio Pojuca margem norte"
+  },
+  {
+    "id": "38",
+    "tipo": null,
+    "lat": -12.598361,
+    "lon": -38.033306,
+    "localizacao": "Foz rio Pojuca margem sul"
+  },
+  {
+    "id": "39",
+    "tipo": "LBR",
+    "lat": -13.011611,
+    "lon": -38.532444,
+    "localizacao": "Ponta de Santo Ant\ufffdnio"
+  },
+  {
+    "id": "40",
+    "tipo": null,
+    "lat": -13.1455,
+    "lon": -38.802667,
+    "localizacao": "Ponta do Garcia"
+  },
+  {
+    "id": "41",
+    "tipo": null,
+    "lat": -13.648833,
+    "lon": -38.875667,
+    "localizacao": "Ilha de Boipeba"
+  },
+  {
+    "id": "42",
+    "tipo": null,
+    "lat": -13.899028,
+    "lon": -38.930583,
+    "localizacao": "Ponta Mut\ufffd"
+  },
+  {
+    "id": "43",
+    "tipo": "LBR",
+    "lat": -14.264194,
+    "lon": -38.994417,
+    "localizacao": "Foz rio das Contas margem norte"
+  },
+  {
+    "id": "44",
+    "tipo": null,
+    "lat": -14.273833,
+    "lon": -38.986,
+    "localizacao": "Foz rio das Contas margem sul"
+  },
+  {
+    "id": "45",
+    "tipo": "LBR",
+    "lat": -14.291944,
+    "lon": -38.97775,
+    "localizacao": "Itacar\ufffd"
+  },
+  {
+    "id": "46",
+    "tipo": null,
+    "lat": -14.768889,
+    "lon": -39.017028,
+    "localizacao": "Ilh\ufffdu Grande Norte"
+  },
+  {
+    "id": "47",
+    "tipo": null,
+    "lat": -14.770861,
+    "lon": -39.015222,
+    "localizacao": "Ilh\ufffdu Grande Sul"
+  },
+  {
+    "id": "48",
+    "tipo": null,
+    "lat": -14.790167,
+    "lon": -39.013972,
+    "localizacao": "Itapitanga"
+  },
+  {
+    "id": "49",
+    "tipo": null,
+    "lat": -14.819444,
+    "lon": -39.024,
+    "localizacao": "Pontal de S\ufffdo Jo\ufffdo da Barra"
+  },
+  {
+    "id": "50",
+    "tipo": "LBR",
+    "lat": -15.088389,
+    "lon": -38.993,
+    "localizacao": "Barra do rio Aguipe"
+  },
+  {
+    "id": "51",
+    "tipo": null,
+    "lat": -15.311861,
+    "lon": -38.983278,
+    "localizacao": "Comandatuba"
+  },
+  {
+    "id": "52",
+    "tipo": null,
+    "lat": -15.4585,
+    "lon": -38.953,
+    "localizacao": "Barra do Poxim"
+  },
+  {
+    "id": "53",
+    "tipo": null,
+    "lat": -15.833722,
+    "lon": -38.875528,
+    "localizacao": "Barra de Belmonte"
+  },
+  {
+    "id": "54",
+    "tipo": "LBR",
+    "lat": -18.604222,
+    "lon": -39.727861,
+    "localizacao": "Foz rio S\ufffdo Mateus margem norte"
+  },
+  {
+    "id": "55",
+    "tipo": null,
+    "lat": -18.614417,
+    "lon": -39.728528,
+    "localizacao": "Foz rio S\ufffdo Mateus margem sul"
+  },
+  {
+    "id": "56",
+    "tipo": "LBR",
+    "lat": -19.650472,
+    "lon": -39.811528,
+    "localizacao": "Foz rio Doce margem norte"
+  },
+  {
+    "id": "57",
+    "tipo": null,
+    "lat": -19.653583,
+    "lon": -39.8145,
+    "localizacao": "Foz rio Doce margem sul"
+  },
+  {
+    "id": "58",
+    "tipo": "LBR",
+    "lat": -19.832833,
+    "lon": -40.057667,
+    "localizacao": "Foz rio Riacho margem norte"
+  },
+  {
+    "id": "59",
+    "tipo": null,
+    "lat": -19.834806,
+    "lon": -40.057667,
+    "localizacao": "Foz rio Riacho margem sul"
+  },
+  {
+    "id": "60",
+    "tipo": "LBR",
+    "lat": -19.843806,
+    "lon": -40.054333,
+    "localizacao": "Farolete Barra do Riacho norte"
+  },
+  {
+    "id": "61",
+    "tipo": null,
+    "lat": -19.845778,
+    "lon": -40.052889,
+    "localizacao": "Farolete Barra do Riacho sul"
+  },
+  {
+    "id": "62",
+    "tipo": "LBR",
+    "lat": -19.873361,
+    "lon": -40.078306,
+    "localizacao": "Praia da \ufffdgua Boa"
+  },
+  {
+    "id": "63",
+    "tipo": null,
+    "lat": -19.91825,
+    "lon": -40.098694,
+    "localizacao": "Pontal de Tacipeba"
+  },
+  {
+    "id": "64",
+    "tipo": null,
+    "lat": -20.078278,
+    "lon": -40.173472,
+    "localizacao": "Ponta Capuba"
+  },
+  {
+    "id": "65",
+    "tipo": "LBR",
+    "lat": -20.154889,
+    "lon": -40.185472,
+    "localizacao": "Foz rio Jacara\ufffdpe margem norte"
+  },
+  {
+    "id": "66",
+    "tipo": null,
+    "lat": -20.155833,
+    "lon": -40.185167,
+    "localizacao": "Foz rio Jacara\ufffdpe margem sul"
+  },
+  {
+    "id": "67",
+    "tipo": "LBR",
+    "lat": -20.218333,
+    "lon": -40.2005,
+    "localizacao": "Bicanha"
+  },
+  {
+    "id": "68",
+    "tipo": null,
+    "lat": -20.258417,
+    "lon": -40.219222,
+    "localizacao": "Terminal Mar\ufffdtimo de Barca\ufffdas"
+  },
+  {
+    "id": "69",
+    "tipo": null,
+    "lat": -20.294889,
+    "lon": -40.229583,
+    "localizacao": "Porto de Tubar\ufffdo"
+  },
+  {
+    "id": "70",
+    "tipo": null,
+    "lat": -20.352083,
+    "lon": -40.249361,
+    "localizacao": "Ilha dos Pacotes"
+  },
+  {
+    "id": "71",
+    "tipo": null,
+    "lat": -20.678583,
+    "lon": -40.364833,
+    "localizacao": "Ilhas Rasas"
+  },
+  {
+    "id": "72",
+    "tipo": null,
+    "lat": -21.614139,
+    "lon": -41.009861,
+    "localizacao": "Atafona"
+  },
+  {
+    "id": "73",
+    "tipo": "LBR",
+    "lat": -22.093806,
+    "lon": -41.133861,
+    "localizacao": "Barra do Furado molhe margem norte"
+  },
+  {
+    "id": "74",
+    "tipo": null,
+    "lat": -22.094833,
+    "lon": -41.135139,
+    "localizacao": "Barra do Furado molhe margem sul"
+  },
+  {
+    "id": "75",
+    "tipo": null,
+    "lat": -22.419056,
+    "lon": -41.700111,
+    "localizacao": "Ilha de Santana"
+  },
+  {
+    "id": "76",
+    "tipo": null,
+    "lat": -22.769333,
+    "lon": -41.784611,
+    "localizacao": "Ilha \ufffdncora"
+  },
+  {
+    "id": "77",
+    "tipo": null,
+    "lat": -22.998056,
+    "lon": -41.978417,
+    "localizacao": "Ponta do Meio"
+  },
+  {
+    "id": "78",
+    "tipo": null,
+    "lat": -23.004556,
+    "lon": -41.984889,
+    "localizacao": "Ponta do Orat\ufffdrio"
+  },
+  {
+    "id": "79",
+    "tipo": null,
+    "lat": -23.016194,
+    "lon": -42.0005,
+    "localizacao": "Ponta do Focinho"
+  },
+  {
+    "id": "80",
+    "tipo": null,
+    "lat": -23.083278,
+    "lon": -43.208722,
+    "localizacao": "Laje da ilha Redonda"
+  },
+  {
+    "id": "81",
+    "tipo": null,
+    "lat": -23.227056,
+    "lon": -44.159333,
+    "localizacao": "Ilha Jorge Grego"
+  },
+  {
+    "id": "82",
+    "tipo": null,
+    "lat": -23.964167,
+    "lon": -45.24375,
+    "localizacao": "Ponta do Boi"
+  },
+  {
+    "id": "83",
+    "tipo": "LBR",
+    "lat": -24.113861,
+    "lon": -45.706222,
+    "localizacao": "Ilha de Alcatrazes"
+  },
+  {
+    "id": "84",
+    "tipo": null,
+    "lat": -24.331,
+    "lon": -46.162667,
+    "localizacao": "Ilha Rochedos"
+  },
+  {
+    "id": "85",
+    "tipo": null,
+    "lat": -24.491111,
+    "lon": -46.676083,
+    "localizacao": "Ilha Queimada Grande"
+  },
+  {
+    "id": "86",
+    "tipo": null,
+    "lat": -25.357333,
+    "lon": -48.033778,
+    "localizacao": "Ilha da Figueira"
+  },
+  {
+    "id": "87",
+    "tipo": null,
+    "lat": -26.17975,
+    "lon": -48.481278,
+    "localizacao": "Ilha da Paz"
+  },
+  {
+    "id": "88",
+    "tipo": null,
+    "lat": -26.783889,
+    "lon": -48.58225,
+    "localizacao": "Ponta do Varrido"
+  },
+  {
+    "id": "89",
+    "tipo": null,
+    "lat": -27.269306,
+    "lon": -48.326528,
+    "localizacao": "Ilha Deserta"
+  },
+  {
+    "id": "90",
+    "tipo": null,
+    "lat": -27.442861,
+    "lon": -48.347056,
+    "localizacao": "Ilha do Badejo"
+  },
+  {
+    "id": "91",
+    "tipo": null,
+    "lat": -27.486889,
+    "lon": -48.354111,
+    "localizacao": "Ilha das Aranhas"
+  },
+  {
+    "id": "92",
+    "tipo": null,
+    "lat": -27.845028,
+    "lon": -48.428028,
+    "localizacao": "Ilha dos Moleques do Sul"
+  },
+  {
+    "id": "93",
+    "tipo": null,
+    "lat": -28.353306,
+    "lon": -48.599111,
+    "localizacao": "Ilha Tacami"
+  },
+  {
+    "id": "94",
+    "tipo": null,
+    "lat": -28.541389,
+    "lon": -48.754556,
+    "localizacao": "Ilha Leste (proximidade praia de Santa Marta Pequeno)"
+  },
+  {
+    "id": "95",
+    "tipo": null,
+    "lat": -28.604028,
+    "lon": -48.809528,
+    "localizacao": "Cabo de Santa Marta Grande"
+  },
+  {
+    "id": "96",
+    "tipo": "LBR",
+    "lat": -28.8015,
+    "lon": -49.182111,
+    "localizacao": "Foz do rio Uru\ufffdanga margem norte"
+  },
+  {
+    "id": "97",
+    "tipo": null,
+    "lat": -28.806194,
+    "lon": -49.188917,
+    "localizacao": "Foz do rio Uru\ufffdanga margem sul"
+  },
+  {
+    "id": "98",
+    "tipo": "LBR",
+    "lat": -32.185028,
+    "lon": -52.075639,
+    "localizacao": "Molhe Rio Grande margem norte"
+  },
+  {
+    "id": "99",
+    "tipo": null,
+    "lat": -32.184111,
+    "lon": -52.084083,
+    "localizacao": "Molhe Rio Grande margem sul"
+  },
+  {
+    "id": "Ponto Final",
+    "tipo": "LBN",
+    "lat": -33.744361,
+    "lon": -53.369361,
+    "localizacao": "Arroio Chu\ufffd Arquip\ufffdlago de Fernando de Noronha Ponto Latitude Longitude FNOR1"
+  },
+  {
+    "id": "1",
+    "tipo": null,
+    "lat": -3.804333,
+    "lon": -32.378722,
+    "localizacao": "FNOR2"
+  },
+  {
+    "id": "2",
+    "tipo": null,
+    "lat": -3.804444,
+    "lon": -32.378389,
+    "localizacao": "FNOR3"
+  },
+  {
+    "id": "3",
+    "tipo": null,
+    "lat": -3.805889,
+    "lon": -32.377361,
+    "localizacao": "FNOR4"
+  },
+  {
+    "id": "4",
+    "tipo": null,
+    "lat": -3.806194,
+    "lon": -32.377417,
+    "localizacao": "FNOR5"
+  },
+  {
+    "id": "5",
+    "tipo": null,
+    "lat": -3.810722,
+    "lon": -32.379028,
+    "localizacao": "FNOR6"
+  },
+  {
+    "id": "6",
+    "tipo": null,
+    "lat": -3.813722,
+    "lon": -32.380917,
+    "localizacao": "FNOR7"
+  },
+  {
+    "id": "7",
+    "tipo": null,
+    "lat": -3.850611,
+    "lon": -32.371222,
+    "localizacao": "FNOR8"
+  },
+  {
+    "id": "8",
+    "tipo": null,
+    "lat": -3.851417,
+    "lon": -32.371389,
+    "localizacao": "FNOR9"
+  },
+  {
+    "id": "9",
+    "tipo": null,
+    "lat": -3.85175,
+    "lon": -32.391167,
+    "localizacao": "FNOR10"
+  },
+  {
+    "id": "10",
+    "tipo": null,
+    "lat": -3.856389,
+    "lon": -32.396583,
+    "localizacao": "FNOR11"
+  },
+  {
+    "id": "11",
+    "tipo": null,
+    "lat": -3.860806,
+    "lon": -32.400444,
+    "localizacao": "FNOR12"
+  },
+  {
+    "id": "12",
+    "tipo": null,
+    "lat": -3.86875,
+    "lon": -32.411667,
+    "localizacao": "FNOR13"
+  },
+  {
+    "id": "13",
+    "tipo": null,
+    "lat": -3.876972,
+    "lon": -32.416528,
+    "localizacao": "FNOR14"
+  },
+  {
+    "id": "14",
+    "tipo": null,
+    "lat": -3.876778,
+    "lon": -32.419167,
+    "localizacao": "FNOR15"
+  },
+  {
+    "id": "15",
+    "tipo": null,
+    "lat": -3.879083,
+    "lon": -32.424444,
+    "localizacao": "FNOR16"
+  },
+  {
+    "id": "16",
+    "tipo": null,
+    "lat": -3.881333,
+    "lon": -32.457222,
+    "localizacao": "FNOR17"
+  },
+  {
+    "id": "17",
+    "tipo": null,
+    "lat": -3.880889,
+    "lon": -32.464278,
+    "localizacao": "FNOR18"
+  },
+  {
+    "id": "18",
+    "tipo": null,
+    "lat": -3.876417,
+    "lon": -32.475278,
+    "localizacao": "FNOR19"
+  },
+  {
+    "id": "19",
+    "tipo": null,
+    "lat": -3.876194,
+    "lon": -32.4755,
+    "localizacao": "FNOR20"
+  },
+  {
+    "id": "20",
+    "tipo": null,
+    "lat": -3.875167,
+    "lon": -32.476167,
+    "localizacao": "FNOR21"
+  },
+  {
+    "id": "21",
+    "tipo": null,
+    "lat": -3.874917,
+    "lon": -32.476167,
+    "localizacao": "FNOR22"
+  },
+  {
+    "id": "22",
+    "tipo": null,
+    "lat": -3.874333,
+    "lon": -32.475611,
+    "localizacao": "FNOR23"
+  },
+  {
+    "id": "23",
+    "tipo": null,
+    "lat": -3.874222,
+    "lon": -32.475333,
+    "localizacao": "FNOR24"
+  },
+  {
+    "id": "24",
+    "tipo": null,
+    "lat": -3.864306,
+    "lon": -32.455833,
+    "localizacao": "FNOR25"
+  },
+  {
+    "id": "25",
+    "tipo": null,
+    "lat": -3.856139,
+    "lon": -32.448694,
+    "localizacao": "FNOR26"
+  },
+  {
+    "id": "26",
+    "tipo": null,
+    "lat": -3.853694,
+    "lon": -32.446778,
+    "localizacao": "FNOR27"
+  },
+  {
+    "id": "27",
+    "tipo": null,
+    "lat": -3.848444,
+    "lon": -32.442722,
+    "localizacao": "FNOR28"
+  },
+  {
+    "id": "28",
+    "tipo": null,
+    "lat": -3.848083,
+    "lon": -32.44225,
+    "localizacao": "FNOR29"
+  },
+  {
+    "id": "29",
+    "tipo": null,
+    "lat": -3.843472,
+    "lon": -32.428722,
+    "localizacao": "FNOR30"
+  },
+  {
+    "id": "30",
+    "tipo": null,
+    "lat": -3.836722,
+    "lon": -32.415222,
+    "localizacao": "FNOR31"
+  },
+  {
+    "id": "31",
+    "tipo": null,
+    "lat": -3.827389,
+    "lon": -32.403944,
+    "localizacao": "FNOR32"
+  },
+  {
+    "id": "32",
+    "tipo": null,
+    "lat": -3.818722,
+    "lon": -32.394778,
+    "localizacao": "FNOR33"
+  },
+  {
+    "id": "33",
+    "tipo": null,
+    "lat": -3.812139,
+    "lon": -32.394361,
+    "localizacao": "FNOR34"
+  },
+  {
+    "id": "34",
+    "tipo": null,
+    "lat": -3.811306,
+    "lon": -32.39425,
+    "localizacao": "FNOR35"
+  },
+  {
+    "id": "35",
+    "tipo": null,
+    "lat": -3.810222,
+    "lon": -32.392833,
+    "localizacao": "FNOR36"
+  },
+  {
+    "id": "36",
+    "tipo": null,
+    "lat": -3.807139,
+    "lon": -32.389083,
+    "localizacao": "FNOR37"
+  },
+  {
+    "id": "37",
+    "tipo": null,
+    "lat": -3.806861,
+    "lon": -32.388694,
+    "localizacao": "FNOR38"
+  },
+  {
+    "id": "38",
+    "tipo": null,
+    "lat": -3.804333,
+    "lon": -32.378722,
+    "localizacao": "Arquip\ufffdlago de S\ufffdo Pedro e S\ufffdo Paulo Ponto Latitude Longitude SPSP1"
+  },
+  {
+    "id": "1",
+    "tipo": null,
+    "lat": 0.918306,
+    "lon": -29.345417,
+    "localizacao": "SPSP2"
+  },
+  {
+    "id": "2",
+    "tipo": null,
+    "lat": 0.91825,
+    "lon": -29.344389,
+    "localizacao": "SPSP3"
+  },
+  {
+    "id": "3",
+    "tipo": null,
+    "lat": 0.91825,
+    "lon": -29.344361,
+    "localizacao": "SPSP4"
+  },
+  {
+    "id": "4",
+    "tipo": null,
+    "lat": 0.916917,
+    "lon": -29.344389,
+    "localizacao": "SPSP5"
+  },
+  {
+    "id": "5",
+    "tipo": null,
+    "lat": 0.916889,
+    "lon": -29.344389,
+    "localizacao": "SPSP6"
+  },
+  {
+    "id": "6",
+    "tipo": null,
+    "lat": 0.916833,
+    "lon": -29.344389,
+    "localizacao": "SPSP7"
+  },
+  {
+    "id": "7",
+    "tipo": null,
+    "lat": 0.916806,
+    "lon": -29.344444,
+    "localizacao": "SPSP8"
+  },
+  {
+    "id": "8",
+    "tipo": null,
+    "lat": 0.916667,
+    "lon": -29.344806,
+    "localizacao": "SPSP9"
+  },
+  {
+    "id": "9",
+    "tipo": null,
+    "lat": 0.916194,
+    "lon": -29.345444,
+    "localizacao": "SPSP10"
+  },
+  {
+    "id": "10",
+    "tipo": null,
+    "lat": 0.915694,
+    "lon": -29.345722,
+    "localizacao": "SPSP11"
+  },
+  {
+    "id": "11",
+    "tipo": null,
+    "lat": 0.915667,
+    "lon": -29.345778,
+    "localizacao": "SPSP12"
+  },
+  {
+    "id": "12",
+    "tipo": null,
+    "lat": 0.915583,
+    "lon": -29.345861,
+    "localizacao": "SPSP13"
+  },
+  {
+    "id": "13",
+    "tipo": null,
+    "lat": 0.915583,
+    "lon": -29.345917,
+    "localizacao": "SPSP14"
+  },
+  {
+    "id": "14",
+    "tipo": null,
+    "lat": 0.915583,
+    "lon": -29.346472,
+    "localizacao": "SPSP15"
+  },
+  {
+    "id": "15",
+    "tipo": null,
+    "lat": 0.915611,
+    "lon": -29.346528,
+    "localizacao": "SPSP16"
+  },
+  {
+    "id": "16",
+    "tipo": null,
+    "lat": 0.915639,
+    "lon": -29.346556,
+    "localizacao": "SPSP17"
+  },
+  {
+    "id": "17",
+    "tipo": null,
+    "lat": 0.916028,
+    "lon": -29.346472,
+    "localizacao": "SPSP18"
+  },
+  {
+    "id": "18",
+    "tipo": null,
+    "lat": 0.916917,
+    "lon": -29.346139,
+    "localizacao": "SPSP19"
+  },
+  {
+    "id": "19",
+    "tipo": null,
+    "lat": 0.917306,
+    "lon": -29.346,
+    "localizacao": "SPSP20"
+  },
+  {
+    "id": "20",
+    "tipo": null,
+    "lat": 0.917944,
+    "lon": -29.345889,
+    "localizacao": "SPSP21"
+  },
+  {
+    "id": "21",
+    "tipo": null,
+    "lat": 0.917972,
+    "lon": -29.345861,
+    "localizacao": "SPSP22"
+  },
+  {
+    "id": "22",
+    "tipo": null,
+    "lat": 0.91825,
+    "lon": -29.345556,
+    "localizacao": "SPSP23"
+  },
+  {
+    "id": "23",
+    "tipo": null,
+    "lat": 0.918278,
+    "lon": -29.3455,
+    "localizacao": "SPSP24"
+  },
+  {
+    "id": "24",
+    "tipo": null,
+    "lat": 0.918306,
+    "lon": -29.345417,
+    "localizacao": "Ilha da Trindade Ponto Latitude Longitude TRIN1"
+  },
+  {
+    "id": "1",
+    "tipo": null,
+    "lat": -20.48425,
+    "lon": -29.336194,
+    "localizacao": "TRIN2"
+  },
+  {
+    "id": "2",
+    "tipo": null,
+    "lat": -20.485306,
+    "lon": -29.332833,
+    "localizacao": "TRIN3"
+  },
+  {
+    "id": "3",
+    "tipo": null,
+    "lat": -20.485889,
+    "lon": -29.331472,
+    "localizacao": "TRIN4"
+  },
+  {
+    "id": "4",
+    "tipo": null,
+    "lat": -20.488028,
+    "lon": -29.329194,
+    "localizacao": "TRIN5"
+  },
+  {
+    "id": "5",
+    "tipo": null,
+    "lat": -20.493222,
+    "lon": -29.325611,
+    "localizacao": "TRIN6"
+  },
+  {
+    "id": "6",
+    "tipo": null,
+    "lat": -20.495139,
+    "lon": -29.322083,
+    "localizacao": "TRIN7"
+  },
+  {
+    "id": "7",
+    "tipo": null,
+    "lat": -20.503583,
+    "lon": -29.307028,
+    "localizacao": "TRIN8"
+  },
+  {
+    "id": "8",
+    "tipo": null,
+    "lat": -20.514917,
+    "lon": -29.295167,
+    "localizacao": "TRIN9"
+  },
+  {
+    "id": "9",
+    "tipo": null,
+    "lat": -20.515444,
+    "lon": -29.295139,
+    "localizacao": "TRIN10"
+  },
+  {
+    "id": "10",
+    "tipo": null,
+    "lat": -20.516861,
+    "lon": -29.2955,
+    "localizacao": "TRIN11"
+  },
+  {
+    "id": "11",
+    "tipo": null,
+    "lat": -20.522611,
+    "lon": -29.297306,
+    "localizacao": "TRIN12"
+  },
+  {
+    "id": "12",
+    "tipo": null,
+    "lat": -20.524111,
+    "lon": -29.297972,
+    "localizacao": "TRIN13"
+  },
+  {
+    "id": "13",
+    "tipo": null,
+    "lat": -20.525806,
+    "lon": -29.299417,
+    "localizacao": "TRIN14"
+  },
+  {
+    "id": "14",
+    "tipo": null,
+    "lat": -20.527139,
+    "lon": -29.323389,
+    "localizacao": "TRIN15"
+  },
+  {
+    "id": "15",
+    "tipo": null,
+    "lat": -20.523972,
+    "lon": -29.329361,
+    "localizacao": "TRIN16"
+  },
+  {
+    "id": "16",
+    "tipo": null,
+    "lat": -20.523111,
+    "lon": -29.330194,
+    "localizacao": "TRIN17"
+  },
+  {
+    "id": "17",
+    "tipo": null,
+    "lat": -20.509028,
+    "lon": -29.341111,
+    "localizacao": "TRIN18"
+  },
+  {
+    "id": "18",
+    "tipo": null,
+    "lat": -20.504667,
+    "lon": -29.345056,
+    "localizacao": "TRIN19"
+  },
+  {
+    "id": "19",
+    "tipo": null,
+    "lat": -20.504389,
+    "lon": -29.34525,
+    "localizacao": "TRIN20"
+  },
+  {
+    "id": "20",
+    "tipo": null,
+    "lat": -20.500028,
+    "lon": -29.342833,
+    "localizacao": "TRIN21"
+  },
+  {
+    "id": "21",
+    "tipo": null,
+    "lat": -20.492417,
+    "lon": -29.343194,
+    "localizacao": "TRIN22"
+  },
+  {
+    "id": "22",
+    "tipo": null,
+    "lat": -20.488167,
+    "lon": -29.342639,
+    "localizacao": "TRIN23"
+  },
+  {
+    "id": "23",
+    "tipo": null,
+    "lat": -20.487972,
+    "lon": -29.342417,
+    "localizacao": "TRIN24"
+  },
+  {
+    "id": "24",
+    "tipo": null,
+    "lat": -20.484278,
+    "lon": -29.336722,
+    "localizacao": "TRIN25"
+  },
+  {
+    "id": "25",
+    "tipo": null,
+    "lat": -20.48425,
+    "lon": -29.336194,
+    "localizacao": "Ilhas Martin Vaz Ponto Latitude Longitude MVAZ1"
+  },
+  {
+    "id": "1",
+    "tipo": null,
+    "lat": -20.496361,
+    "lon": -28.842083,
+    "localizacao": "MVAZ2"
+  },
+  {
+    "id": "2",
+    "tipo": null,
+    "lat": -20.49625,
+    "lon": -28.843833,
+    "localizacao": "MVAZ3"
+  },
+  {
+    "id": "3",
+    "tipo": null,
+    "lat": -20.495917,
+    "lon": -28.844889,
+    "localizacao": "MVAZ4"
+  },
+  {
+    "id": "4",
+    "tipo": null,
+    "lat": -20.494361,
+    "lon": -28.8455,
+    "localizacao": "MVAZ5"
+  },
+  {
+    "id": "5",
+    "tipo": null,
+    "lat": -20.475778,
+    "lon": -28.848444,
+    "localizacao": "MVAZ6"
+  },
+  {
+    "id": "6",
+    "tipo": null,
+    "lat": -20.471611,
+    "lon": -28.85,
+    "localizacao": "MVAZ7"
+  },
+  {
+    "id": "7",
+    "tipo": null,
+    "lat": -20.468917,
+    "lon": -28.850917,
+    "localizacao": "MVAZ8"
+  },
+  {
+    "id": "8",
+    "tipo": null,
+    "lat": -20.468472,
+    "lon": -28.850889,
+    "localizacao": "MVAZ9"
+  },
+  {
+    "id": "9",
+    "tipo": null,
+    "lat": -20.467833,
+    "lon": -28.850111,
+    "localizacao": "MVAZ10"
+  },
+  {
+    "id": "10",
+    "tipo": null,
+    "lat": -20.46775,
+    "lon": -28.849722,
+    "localizacao": "MVAZ11"
+  },
+  {
+    "id": "11",
+    "tipo": null,
+    "lat": -20.468111,
+    "lon": -28.848917,
+    "localizacao": "MVAZ12"
+  },
+  {
+    "id": "12",
+    "tipo": null,
+    "lat": -20.472194,
+    "lon": -28.844583,
+    "localizacao": "MVAZ13"
+  },
+  {
+    "id": "13",
+    "tipo": null,
+    "lat": -20.474139,
+    "lon": -28.842417,
+    "localizacao": "MVAZ14"
+  },
+  {
+    "id": "14",
+    "tipo": null,
+    "lat": -20.474694,
+    "lon": -28.842083,
+    "localizacao": "MVAZ15"
+  },
+  {
+    "id": "15",
+    "tipo": null,
+    "lat": -20.495556,
+    "lon": -28.841972,
+    "localizacao": "MVAZ16"
+  },
+  {
+    "id": "16",
+    "tipo": null,
+    "lat": -20.496361,
+    "lon": -28.842083,
+    "localizacao": "* (function(){var f5_cspm={f5_p:'JBCCPMALIMGFMEPHHJBCABEBJICHKNEPAHOANKHCPCOKNFLIJOHIIKJNPHLJCHAPCNEBJIBJAADJHEAMCBDADGELAACIMAIHFGIALHHHAPBOFMGCMBOELPNCBCLDKLHP',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65) >4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res"
+  }
+]

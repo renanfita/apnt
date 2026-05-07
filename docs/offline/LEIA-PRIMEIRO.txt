@@ -1,0 +1,21 @@
+APNT 2026 - Mapa de Zonas Maritimas e Descarte MARPOL
+
+Como usar offline:
+
+1. Extraia todo o conteudo deste ZIP em uma pasta local.
+2. Abra o arquivo mapa_descarte_brasil.html em um navegador moderno.
+3. Nao mova as pastas assets/ e vendor/ para fora da pasta extraida.
+
+Conteudo:
+- mapa_descarte_brasil.html
+- assets/
+- vendor/
+- checklist.html
+- AVISO-OPERACIONAL.txt
+
+Contato:
+apnt2026.1@gmail.com
+https://www.linkedin.com/in/apnt-ciaga2026
+
+Desenvolvido por 1ON Renan Fita - APNT 2026.
+
